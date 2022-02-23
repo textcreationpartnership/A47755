@@ -1,0 +1,779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A religious conference between a minister and parishioner: concerning the practice of our orthodox Church of England in baptizing infants, and pouring water on their faces, or sprinkling them; and in confirming them by the bishop when they come of age to give an account of their faith. Proving all three lawful by the authority of the Holy Scriptures.</title>
+            <author>Leslie, Charles, 1650-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47755</idno>
+            <idno type="STC">Wing L1145</idno>
+            <idno type="STC">ESTC R213965</idno>
+            <idno type="EEBO-CITATION">99826210</idno>
+            <idno type="PROQUEST">99826210</idno>
+            <idno type="VID">30606</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30606)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1761:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A religious conference between a minister and parishioner: concerning the practice of our orthodox Church of England in baptizing infants, and pouring water on their faces, or sprinkling them; and in confirming them by the bishop when they come of age to give an account of their faith. Proving all three lawful by the authority of the Holy Scriptures.</title>
+                  <author>Leslie, Charles, 1650-1722.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for A. and J. Churchil, and sold by John Pearce bookseller in Exon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Charles Leslie.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Church of England --  Apologetic works --  Early works to 1800.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30606:1"/>
+            <pb facs="tcp:30606:1" rendition="simple:additions"/>
+            <p>A Religious Conference Between a Miniſter and Pariſhioner: Concerning the Practice of Our <hi>Orthodox Church of</hi> England IN BAPTIZING INFANTS, AND Pouring Water on their Faces, or Sprinkling them; and in Confirming them by the Biſhop when they come of Age to give an Account of their Faith.</p>
+            <p>Proving all three lawful by the Authority of the Holy Scriptures.</p>
+            <q>
+               <bibl>
+                  <hi>Ezech. 3.17.</hi>
+               </bibl> Son of Man; I have made thee a Watchman unto the Houſe of <hi>Iſrael;</hi> therefore hear the Word at my Mouth, and give them warning from me.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A.</hi> and <hi>J. Churchil,</hi> and ſold by <hi>John Pearce</hi> Bookſeller in <hi>Exon,</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30606:2"/>
+            <pb n="3" facs="tcp:30606:2"/>
+            <head>A <hi>Religious Conference</hi> Between a Miniſter and Pariſhioner, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Pariſhioner.</speaker>
+               <p>GOOD morrow to you Sir, I wiſh you Health of Body, which, as I remember, you heretofore often wanted.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>The God of Heaven bleſs you Sir, and give you Health of Soul, and grant you may never want that.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This ſpiritual Health is ſomewhat impair'd ſince your De<g ref="char:EOLhyphen"/>parture from us.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I am heartily ſorry for that, and wiſh I cou'd reſtore it; but hope you have ſo much Charity for me, as to believe I wou'd glad<g ref="char:EOLhyphen"/>ly have officiated ſtill among you if I cou'd have done it without ſinning againſt my own Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>You have ſtudyed that Point better than I, and if you are ſatisfied, I have no reaſon to object againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I thank God I am eaſie and quiet in my own Mind, and that is a continual Feaſt.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I believe ſo by your Countenance, becauſe you look better than ever: but I have often wiſh'd my ſelf and this Pariſh under your Miniſtry again; it might have been a means under God to have kept ſome of us from falling from the Church into divers Errors, and particularly that of oppoſing Infant Baptiſm.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I am mightily concern'd to hear ſuch Oppoſers of truth do increaſe in theſe Parts.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>So am I to ſee it, and to tell you that one of your Flock, who was a conſtant Attendant on your publick Prayers, Preaching, and Holy Sacrament, has been lately dipt by them; and others I fear are like to follow.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:30606:3"/>
+               <speaker>M.</speaker>
+               <p>This grieves my very Soul, the good God put a Stop to this ſpreading Contagion.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>And pray Sir lend your helping Hand to cure it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I ſhall readily and freely do it by ſatisfying your Doubts, or anſwering any puzzling Queſtions you ſhall propoſe about it.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I kindly thank you Sir, and without any more ado ſhall be<g ref="char:EOLhyphen"/>gin with my firſt Queſtion, which is to inform me what Bap<g ref="char:EOLhyphen"/>tiſm is? Becauſe the Streſs of this Controverſie lies in underſtand<g ref="char:EOLhyphen"/>ing the Meaning and Signification of it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>The Word <hi>[Baptize]</hi> is us'd in Scripture to ſignifie ſome<g ref="char:EOLhyphen"/>times the dipping the whole Body in Water, ſometimes the wet<g ref="char:EOLhyphen"/>ting, waſhing, or ſprinkling ſome Part thereof with Water.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>How do you prove this latter Signification of the Word <hi>[Baptiſm?]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>From four ſeveral Places of Scripture, as <hi>Luke</hi> 11.38. where 'tis ſaid in the Greek, our Saviour was not baptiz'd, becauſe he had not waſh'd his Hands before Dinner, and the Phariſee mar<g ref="char:EOLhyphen"/>velled at it, that he himſelf (not his Hands) was not baptiz'd; and <hi>Mar.</hi> 10.39. where our Lord calls his Sufferings on the Croſs a Baptiſm, becauſe he was wet and ſprinkled with the Blood and Water which iſſued out of his wounded Heart; and <hi>Act.</hi> 1.5. where the Diſciples are promiſed to be baptized with the Holy Ghoſt not many Days hence, becauſe the Holy Ghoſt was ſhortly to be ſhed or poured forth on the Diſciples Heads, and into their Hearts, ſomewhat after the manner of our pouring forth Water, and ſprinkling in Baptiſm, which was prophecy'd by <hi>Joel, cap.</hi> 2.28, 29. and came to paſs on the Day of Pentecoſt, <hi>Act.</hi> 2.17, 33. and 1 <hi>Cor.</hi> 10.2. where St. <hi>Paul</hi> ſays the <hi>Iſraelites</hi> in their Paſſage from <hi>Egypt</hi> to <hi>Caanan</hi> were all baptized in the Cloud, becauſe they were all ſprinkled with the Rain which fell from it; as is further evident from <hi>Pſal.</hi> 77.17. the Clouds poured out Water, <hi>i. e.</hi> on the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael</hi> as they marched thro' the Red Sea, to which the foregoing and following Verſes of that Pſalm prove that it muſt have Reference.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>May Baptiſm then be adminiſtred by ſprinkling or pouring Water on the Face of the baptized Perſon as well as by dipping him?</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:30606:3"/>
+               <speaker>M.</speaker>
+               <p>Yes it may for the Reaſons before expreſſed, becauſe Chriſt who was wet and ſprinkled with Blood and Water in ſome Part of his Body on the Croſs, and his Apoſtles, who had the Holy Ghoſt poured forth, and as it were ſprinkled upon them, and the <hi>Iſra<g ref="char:EOLhyphen"/>elites</hi> who in their Paſſage thro' the Red Sea, were ſprinkled on<g ref="char:EOLhyphen"/>ly with Water (for all that way they walked on dry Ground, <hi>Exod,</hi> 14.22.) theſe are all nevertheleſs ſaid to be baptized.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But was not Chriſt and the Eunuch dipt under Water when they were baptized, becauſe they both went down into the Wa<g ref="char:EOLhyphen"/>ter, and came up out of it?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>It does not neceſſarily follow from thoſe Expreſſions that the Baptiſm of either was by dipping, ſince <hi>John Baptiſt</hi> and <hi>Philip</hi> went down into the Water, and came up out of it, as well as Chriſt and the Eunuch, and yet none do thence infer the two former were dipt.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But they urge farther, and I have often heard it from them, that Place of <hi>Joh.</hi> 3.23. <hi>John</hi> was baptizing in <hi>Enon</hi> near <hi>Salim,</hi> for there was much water there; whence they conclude he dipt his Proſelytes, or elſe why is that reaſon given there? Why did he repair to a River for Baptiſm?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>The reaſon why <hi>John</hi> baptized in <hi>Enon</hi> as well as <hi>Jordan</hi> might be, and in all Probability was, becauſe of the great Multi<g ref="char:EOLhyphen"/>tudes that reſorted to him for Baptiſm, <hi>Jeruſalem,</hi> and all <hi>Judaea,</hi> and all the Region round about <hi>Jordan, Mat.</hi> 3.5. and to be con<g ref="char:EOLhyphen"/>tinually drawing and carrying Water for the baptizing ſo many thouſand People wou'd have been an endleſs Work, and therefore a River was the moſt convenient Place for <hi>John</hi>'s Baptiſm, there being then too no Baptiſteries in Churches erected and allowed for that purpoſe; and the ſaying there was much Water there, does no more prove that <hi>John</hi> dipt his Diſciples, than the Eunuchs ſaying to <hi>Philip, ſee here is Water, what does hinder me to be bapti<g ref="char:EOLhyphen"/>zed?</hi> Act. 8.36. does prove, that he was only ſprinkled; becauſe the Eunuch makes Water, and not the Muchneſs or Littleneſs of it to be the Reaſon why <hi>Philip</hi> ſhou'd baptize him there; 2ly. If <hi>John</hi> had dipt his Proſelytes, this is no Proof that we muſt do ſo too, becauſe his Baptiſm, if it was the ſame for Subſtance with Chriſts, yet was adminiſtred in a different manner, and not in that
+<pb n="6" facs="tcp:30606:4"/>
+Form of Words Chriſt's was, not in the Name of the Father, of of the Son, and of the Holy Ghoſt; and for this we have the Con<g ref="char:EOLhyphen"/>feſſion of<note n="*" place="margin">Mr. <hi>Black<g ref="char:EOLhyphen"/>wood's</hi> ſtorming of Anti<g ref="char:EOLhyphen"/>chriſt, pag. 13. part. 2.</note> one of their own Party, that <hi>John</hi> did not baptize in the Name of the Holy Trinity as Chriſt did, which he proves from <hi>Act.</hi> 2.3, 4, 5. where thoſe twelve Diſciples, becauſe they had not been baptized in the Name of the Holy Ghoſt, altho' baptiz'd be<g ref="char:EOLhyphen"/>fore into <hi>John</hi>'s Baptiſm, were all baptiz'd again by St. <hi>Paul;</hi> and if <hi>John</hi>'s Baptiſm differ'd from ours in ſome Circumſtances, why may not ours differ from his in this one of ſprinkling, and we lawfully uſe it, tho' <hi>John</hi> did dipping, eſpecially ſince there is no<g ref="char:EOLhyphen"/>thing in Chriſt's Command which requires us to obſerve the one more than the other, but he leaves the Miniſter at liberty (as our Church does) either to dip or ſprinkle according to the Strength or Weakneſs of the Party that is to be baptized; and either way if he does it with Water, and in the Name of the Father, of the Son, and of the Holy Ghoſt, he does adminiſter true Chriſtian Baptiſm.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I think this a ſufficient Anſwer to that Objection from <hi>John,</hi> and wonder theſe Men inſiſt ſo much upon dipping in Baptiſm, as to make the Ordinance void without it, when they can never prove this to be eſſential to Baptiſm from any Place of Scripture, but only by conjectural Conſequences and Deductions from it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I do not wonder at this at all, ſince none are more confident, than thoſe that are moſt ignorant; as deep Rivers run ſilently on, but ſhallow Streams make a Noiſe; and thus Mountebanks will undertake Cures, which the ableſt Phyſitians look on as deſperate; but they ſeldom ſtay long in a Place, and more ſeldom cure Peo<g ref="char:EOLhyphen"/>ple of any Diſeaſe but their Folly.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But I hope I ſhall have more Wit than to be cheated by Mountebanks in Phyſick, and more Grace than to be deceiv'd by Mountebanks in Religion.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Pray take care of both, but more eſpecially the latter, ſince to try Practices on the Soul is far more dangerous than to tamper with the Body.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I thank you for your good Advice, and by God's Help ſhall be careful to follow it: But to return to our former Diſcourſe, pray Sir, who are the proper Subjects of Baptiſm, which you have prov'd may be adminiſtred by ſprinkling or dipping?</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:30606:4"/>
+               <speaker>M.</speaker>
+               <p>Not only all Believers, but alſo all their Children.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>How do you prove that Believers Children may lawfully be baptiz'd?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>From ſeveral Texts of Scripture, which by good and unde<g ref="char:EOLhyphen"/>niable Conſequence imply ſo much.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Pray Sir name ſome of thoſe Texts that I may have them in readineſs to defend our Church's Practice in baptizing Infants.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I ſhall; the firſt is a Place already quoted to prove the Law<g ref="char:EOLhyphen"/>fulneſs of ſprinkling, 1 <hi>Cor.</hi> 10.2. where the Apoſtle ſays the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> were all baptiz'd into <hi>Moſes</hi> in the Cloud and in the Sea, which imports (as all Expoſitors will allow, even thoſe that op<g ref="char:EOLhyphen"/>poſe the Conſequence we draw from it) that the Jews Paſſage thro' the Red Sea was a<note place="margin">Mr. <hi>Keach</hi>'s Gold re<g ref="char:EOLhyphen"/>fin'd, p. 62.</note> Type of our Chriſtian Baptiſm; and if ſo it was in the Type, that Men, Women, and Children paſſed thro' the red Sea, it ought to be ſo in the thing typifi'd, and then the Children of believing Parents as well as they themſelves, may and ought to be baptiz'd.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But did not the Jews Cattle and many Unbelievers paſs thro' the Red Sea with them? And were they baptiz'd too? This ſeems abſurd.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>And ſo does your Queſtion; the Scripture being ſilent, and ſaying nothing about Cattle and Unbelievers which went with <hi>Iſrael</hi> thro' the Red Sea; and if both of them did, how cou'd they be baptized into <hi>Moſes, i. e.</hi> into his Doctrin and Law, which the Cattle cou'd not, and the Unbelievers wou'd not underſtand and obey? and therefore the mixt Multitude ſpoken of <hi>Ex.</hi> 12.38. who went up from <hi>Egypt</hi> were all the <hi>Jewiſh</hi> Proſelytes, as well as the <hi>Jews</hi> themſelves, their Wives, and Children, comprehen<g ref="char:EOLhyphen"/>ded under the general Name of Fathers in the former Verſe, 1 <hi>Cor.</hi> 10.1. Theſe were the <hi>[All]</hi> that were baptized unto <hi>Moſes</hi> in the Cloud and in the Sea.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Where is your next Scripture Proof?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>It is <hi>Col.</hi> 2.11, 12. where the ſame Apoſtle calls Baptiſm a Circumciſion made without Hands, and ſays the <hi>Coloſſians</hi> were circumciſed by it; which implies that Circumciſion comes in the room of Baptiſm, as our Saviour's calling the Lord's Supper the Paſſover is an Argument it was inſtituted inſtead thereof, <hi>Luk.</hi> 22.15.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:30606:5"/>
+               <speaker>P.</speaker>
+               <p>But here they object that if Baptiſm comes in the room of Circumciſion, then Males muſt be only baptized, as Males of old were only circumciſed.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>To this I anſwer, 1. That Baptiſm does not ſucceed Cir<g ref="char:EOLhyphen"/>cumciſion as the Antitype does the Type, or the Subſtance does the Shadow; but as one poſitive Inſtitution ſucceeds another, and both ſeal the ſame ſpiritual Mercies, that to the Jews, and this to the Chriſtians; and therefore if Baptiſm is adminiſtred to other Subjects, <hi>viz.</hi> Females, who are more capable thereof than they were of Circumciſion, this is no Argument that the one does not come in the room of the other, but rather that God's Mercies are more enlarged to us than to them, as the Seal thereof which is Baptiſm, is extended and applied farther than their Circumciſion was; 2. I ſay that the Jewiſh Females were vertually circumcis'd in the Males, and for that reaſon the whole Jewiſh Church and Nation are call'd in Scripture by the Name of Circumciſion, <hi>Act.</hi> 10.45. <hi>cap.</hi> 11.2. <hi>Gal.</hi> 2.9. <hi>and Phil.</hi> 3.3.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But they have a Salvo for this; that the Jewiſh People are call'd the Circumciſion from the greater part who were circum<g ref="char:EOLhyphen"/>cis'd, as the Cattle of <hi>Egypt</hi> are ſaid to have dy'd, <hi>Ex.</hi> 9.6. and yet there was Cattle left, <hi>ver.</hi> 19, 25.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But this will not ſerve the turn; for how does it appear that the Jews Males were more in Number than their Females? Their Number might be equal, or they might have more Women than Men for any thing can be prov'd to the contrary; but to put this matter out of doubt, that the Jews were not call'd the Circum<g ref="char:EOLhyphen"/>ciſion from the greater or better Part of them that were circum<g ref="char:EOLhyphen"/>cis'd, is plain from <hi>Ex.</hi> 12.48. where no uncircumcis'd Perſon was to eat of the Paſſover; and yet the Jewiſh Women did con<g ref="char:EOLhyphen"/>ſtantly partake thereof, and were never reprov'd by <hi>Moſes</hi> or any of the Prophets for it; and therefore in God's Eſteem the Jewiſh Women muſt be vertually circumciſed in the Men, or elſe they cou'd not have been admitted to the Lord's Paſſover.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This is a convincing Argument, and proves that Males and Females among the Jews in reſpect of the Covenant of Circumci<g ref="char:EOLhyphen"/>ſion were (like Man and Wife) but one Fleſh; and I cannot i<g ref="char:EOLhyphen"/>magine what they will ſay to it; but they have ſomething to of<g ref="char:EOLhyphen"/>fer
+<pb n="9" facs="tcp:30606:5"/>
+from that place of St. <hi>Paul</hi> for Dipping, that he calls our Spiritual Circumciſion a <hi>being buried with Chriſt in Baptiſm,</hi> which they ſay, is an Argument againſt Sprinkling, and for Dipping.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>To this I Anſwer, 1. This paſſage cannot be taken ac<g ref="char:EOLhyphen"/>cording to the Letter, that the <hi>Coloſſians</hi> were cover'd all over with Water in Baptiſm, as Chriſt was cover'd with Earth at his Burial, who had no Earth at all upon him, being laid in a Se<g ref="char:EOLhyphen"/>pulchre of hewn Stone; and they muſt have continued Three Days and Nights under Water, to make the reſemblance to Chriſt's Burial compleat, and then they would have been Bury'd indeed. 2. In Burying a Corps, we are not wont to Dip them into the Earth, which will not yield to them as Water does; but to ſprinkle Earth upon it. 3. This Phraſe muſt be taken Myſti<g ref="char:EOLhyphen"/>cally as our Church expounds it, that as Chriſt Died and Roſe again for us, ſo ſhou'd we who are Baptized Dye from Sin, and Riſe again unto Righteouſneſs.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Have you any more places of Scripture to produce?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Yes, Three more, which you ſhall have in order, <hi>Mat</hi> 19.14. where our Lord ſays, of little Children, whom St. <hi>Luke</hi> calls Infants, <hi>Cap.</hi> 18.15. who were brought unto him for his Bleſ<g ref="char:EOLhyphen"/>ſing and Prayers, <hi>[of ſuch is the Kingdom of Heaven]</hi> and then certainly we cannot deny Baptiſm to thoſe Children to whom God will not deny Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But at this rate of arguing you muſt give them the Lord's Supper too, as they did generally in the Church about a Thou<g ref="char:EOLhyphen"/>ſand Years ago.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But there is not the ſame Reaſon for adminſtring the one, as there is the other Ordinance to Children: 1. Becauſe in that Command our Lord gives about Baptiſm, <hi>John</hi> 3.5. the Word made uſe of to ſignifie the ſubjects thereof, may be as well ex<g ref="char:EOLhyphen"/>tended to Infants as to grown Perſons; 'tis except [one] any one, whether he be Man or Woman or Child, be Born of Water and the Spirit, he cannot enter into the Kingdom of God; but in the Command St. <hi>Paul</hi> gives about the Lord's Supper, he ſays, <hi>Let a Man examine himſelf, and ſo let him Eat of that Bread, and Drink of that Cup,</hi> 1 Cor. 11.28. <hi>Let a Man, &amp;c.</hi> the word ſig<g ref="char:EOLhyphen"/>nifies a Man of Underſtanding, that can <hi>examine himſelf, and
+<pb n="10" facs="tcp:30606:6"/>
+diſcern the Lord's Body;</hi> ſo that Infants may be baptiz'd purſu<g ref="char:EOLhyphen"/>ant to the former Command, but they may not be permitted to Communicate purſuant to the latter.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But theſe Men will not underſtand that place of <hi>John</hi> to be ſpoken of our Chriſtian Baptiſm.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>They may underſtand things as they pleaſe, and as their Intereſt leads them; but it is plain, the moſt Ancient and beſt Expoſitors have ſo underſtood the place, and ſo it muſt be un<g ref="char:EOLhyphen"/>derſtood, or elſe it will be hard for them to prove we muſt Bap<g ref="char:EOLhyphen"/>tize with Water, there being no mention of Water in Chriſt's Commiſſion, or rather inlargement of it to his Diſciples <hi>to Bap<g ref="char:EOLhyphen"/>tize all Nations,</hi> Mat. 28.19. And therefore I wonder at the Confidence of<note n="*" place="margin">Mr. <hi>K.</hi> Gold re<g ref="char:EOLhyphen"/>fin'd, p. 6.</note> one of them, who ſays, this laſt is the only place where Water-baptiſm is mention'd, when 'tis certain, it is not there mention'd at all; the words are, <hi>Go ye therefore, and Teach all Nations, Baptizing them in the Name of the Father, of the Son, and of the Holy Ghoſt;</hi> 'tis not there ſaid, Baptize them with Water any more than its ſaid, Baptize Infants; and if Water had been expreſſed, to what purpoſe does that Author muſter up eight Arguments, and ſpend ſo many Pages to prove Water muſt be impli'd and meant in Chriſt's Commiſſion, if it was mention'd there?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>'Tis ſtrange a Man ſhou'd take ſo much pains to prove Water muſt be intended in ſuch a place of Scripture, if it was there expreſſed?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>'Tis no ſtranger than true, but he is loath ſuch a needful thing as Water ſhou'd be omitted in Chriſt's Comiſſion to Bap<g ref="char:EOLhyphen"/>tize, and be only imply'd, leſt on the ſame account the bapti<g ref="char:EOLhyphen"/>zing of Infants ſhou'd be alſo imply'd in it.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>That may be the reaſon why he is ſo preſumptuous to ſay Water-baptiſm is mention'd, <hi>Mat.</hi> 28.18. tho' he tells an un<g ref="char:EOLhyphen"/>truth in ſaying it; but have you any other Reaſon why Chil<g ref="char:EOLhyphen"/>dren tho' they may be Baptiz'd, may not receive the Lord's Sup<g ref="char:EOLhyphen"/>per?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Yes, becauſe Baptiſm is an Initiating Sacrament, and ſo (like Milk) proper only for Babes in Chriſt; but the Lord's Sup<g ref="char:EOLhyphen"/>per is a ſtrengthening and confirming Sacrament, and ſo (like
+<pb n="11" facs="tcp:30606:6"/>
+ſtronger Meat) proper for ſuch as are grown to be perfect Men in Chriſt Jeſus.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But Chriſt does not ſay, of theſe Children, but of ſuch as theſe, is the Kingdom of Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But if Men ſhall enter into Heaven for being like Children, Children who are ſet for Mens Pattern, cannot be excluded from it; and if Children have a Right to the Heavenly Inheritance, they cannot in Juſtice be deny'd Baptiſm, which is as it were God's Signing and Sealing the Deed by which it is convey'd.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This ſeems unreaſonable; but what is your other Proof?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>It is, 1 Cor. 7.14. <hi>Elſe were your Children unclean, but now are they holy:</hi> Where the Apoſtle in all likelihood intends a real or foederal, and not a Matrimonial Holineſs, <hi>i. e.</hi> only a Le<g ref="char:EOLhyphen"/>gitimacy to be in Believers Children; otherwiſe there cou'd be no Lawful Marriages among Heathens, nor their Children law<g ref="char:EOLhyphen"/>fully begotten, contrary to <hi>Heb.</hi> 13.4. <hi>Marriage is honourable in all, &amp;c.</hi> and this reaſon of our Expoſition the Oppoſers thereof do well to omit, becauſe I doubt they are not able to Anſwer it.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But if foederal Holineſs be here meant, then the Unbeliev<g ref="char:EOLhyphen"/>ing Wife may lay a claim to Baptiſm as well as the Children, on the account of her Husband's Faith.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>No, there is a double difference in the Caſe. 1. Becauſe there is not the ſame reaſon a Believer's Unbelieving Wife ſhou'd be Covenantly Holy, as that his Children ſhou'd be ſo; Almigh<g ref="char:EOLhyphen"/>ty God having ingag'd himſelf in Covenant to ſuch Children, which he has not done to ſuch a Wife; the Tenor of which Co<g ref="char:EOLhyphen"/>venant, runs thus, <hi>Gen.</hi> 17.7. <hi>I will eſtabliſh my Covenant between me and thee, and thy Seed after thee in their Generations, for an everlasting Covenant; to be a God to thee and to thy Seed after thee.</hi> And this Covenant which God made with <hi>Abraham,</hi> is ſtill in Force, and made with the Believing <hi>Gentiles</hi> and their Children, by Virtue of which, a Covenant relation redounds to the Children of a Be<g ref="char:EOLhyphen"/>lieving Father, but not of the Unbelieving Mother; the Cove<g ref="char:EOLhyphen"/>nant is eſtabliſh'd with Believers and their Seed; and not with their Wives that are Idolaters; and ſo St. <hi>Peter</hi> expounds this Co<g ref="char:EOLhyphen"/>venant, <hi>Acts</hi> 2.39. <hi>The promiſe is to you, and to your Children;</hi>
+                  <pb n="12" facs="tcp:30606:7"/>
+there is no mention in either place of Unbelieving Wives, nei<g ref="char:EOLhyphen"/>ther are they included in the Covenant of Grace, as their Believ<g ref="char:EOLhyphen"/>ing Husbands and Children are; as for inſtance, when <hi>Solomon</hi> Marry'd <hi>Pharaoh</hi>'s Daughter, ſhe continuing a <hi>Heathen</hi> ſtill, had no benefit of the Abrahamical Covenant, as her Husband and Chil<g ref="char:EOLhyphen"/>dren (if he begat any by her) had; they were both within the Covenant, tho' ſhe was out of it: In like manner is it with a Be<g ref="char:EOLhyphen"/>lieving Chriſtian Husband, he and his Children are Covenantly Holy, when his Unbelieving Wife is not ſo, but only Civilly Holy. 2. The Wife is able, and therefore ought to make Pro<g ref="char:EOLhyphen"/>feſſion of her Faith, before ſhe is Baptiz'd; the Children are not able to Profeſs their Faith, and therefore may be Baptiz'd without it: And this diſtinction they muſt allow, becauſe they have made it themſelves in reſpect of Chriſt's Satisfaction, which<note n="*" place="margin">Mr. <hi>Black<g ref="char:EOLhyphen"/>wood's</hi> ſtorming of Anti<g ref="char:EOLhyphen"/>chriſt, pag. 11. part. 2.</note> they ſay, is but one, though there is a twofold way of applying it. 1. Through believing in thoſe that are capable of believing. 2. Without believing is this Satisfaction apply'd to dying Infants: And therefore they have no more reaſon to ſay we make two Bap<g ref="char:EOLhyphen"/>tiſms, than we have to ſay, they make two Satisfactions of Chriſt; one for grown Perſons through Faith, and another for In<g ref="char:EOLhyphen"/>fants without Faith. And if Chriſt's Satisfaction is one, ſo is our Bap<g ref="char:EOLhyphen"/>tiſm one, notwithſtanding this twofold way of applying it; but were this Interpretation of ours of Foederal as falſe as I have prov'd theirs of Matrimonial Holineſs to be, there is a third more pro<g ref="char:EOLhyphen"/>bable than both; that by Sanctify'd St. <hi>Paul</hi> means Baptiz'd; that the Unbelieving Wife by the Converſation and importunity of the Believing Husband has been Sanctify'd, <hi>i. e. Baptiz'd,</hi> the effect, which is Sanctification, being here put (as alſo in ſeveral of the Ancient Fathers) for Baptiſm, which is the inſtrumental cauſe of it; and if this be the Apoſtle's ſenſe, (as 'tis more likely than theirs) then Children were Baptiz'd in St. <hi>Paul</hi>'s time, and his ſaying, they were <hi>Holy,</hi> imports as much.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But this Interpretation ſuppoſes that Baptiſm waſhes away Original Sin; and how can Water do that? How can it cleanſe the Soul in a Phyſical manner?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>'Tis not the Water, but the Spirit of God which co-ope<g ref="char:EOLhyphen"/>rates with it, that produces Scanctification in the Childs Soul;
+<pb n="13" facs="tcp:30606:7"/>
+and 'tis by vertue of Chriſt's Inſtitution that Baptiſm is a Convert<g ref="char:EOLhyphen"/>ing, as the Lord's Supper is a Strengthening Ordinance; and the operation of Grace in both is not perform'd in a Natural, but Su<g ref="char:EOLhyphen"/>pernatural and Spiritual manner, and by vertue of Chriſt's Inſti<g ref="char:EOLhyphen"/>tution.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Then all Believers Children are Regenerated in Baptiſm, which cannot be, becauſe ſome prove wicked afterwards, unleſs you hold a falling from Grace.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p n="1">1. If we hold this, they have not yet prov'd it to be an Er<g ref="char:EOLhyphen"/>ror, and if they cou'd, ſome of their own party wou'd be found to be Erroneous. 2. There is no need of holding it, becauſe ſuch Believers Children as prove wicked, may repent afterwards in their Lifetime, or at the Hour of their Death; and that they do not repent is more than any can certainly tell, and therefore we ſhou'd be ſo Charitable as to think and hope the beſt.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Some indeed ſay (as you do) that Regeneration is conferr'd in Baptiſm, and exerts it ſelf afterwards in Converſion; but how ſo active a Principle as Spiritual Life, ſhou'd lye dead and a-ſleep ſo long, even many Years which intervene betwixt Baptiſm and Converſion, is not eaſily conceivable.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>This is as eaſie to be conceiv'd, as that <hi>David</hi> after his Converſion ſhou'd fall into thoſe foul Sins of Adultery and Mur<g ref="char:EOLhyphen"/>der, and wallow a conſiderable time (a Year or two at leaſt, as ſome conjecture) in them; and let any of theſe Men reconcile <hi>David</hi>'s foul Sins and continuance in them, with his former Con<g ref="char:EOLhyphen"/>verſion, and I will undertake to reconcile the after-wickedneſs of Children with their Regeneration in Baptiſm.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But if Baptiſm be a Regenerating Ordinance, What be<g ref="char:EOLhyphen"/>comes of thoſe Children that die without it? Muſt they be all Damn'd that die before they are Baptiz'd?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p n="1">1. If they ſhould be all damn'd, What have theſe Men to anſwer for, that have been the cauſe of ſo many Thou<g ref="char:EOLhyphen"/>ſand Childrens damnation? It muſt needs make their Hell ſe<g ref="char:EOLhyphen"/>ven times hotter to meet their Unbaptiz'd Children there, whom they might have kept from coming into that place of Torments; But 2. Our Church has determin'd nothing about this matter, leaving us (as the Scripture does) in the dark concerning it,
+<pb n="14" facs="tcp:30606:8"/>
+and not binding Almighty God to thoſe means, to which he has bound us; and all that can be gathered from the Scriptures and our Church's doctrin about this nice point is, that Baptiſm is the only ordinary Means of our childrens Salvation; and if any of them through their Parents negligence and contempt of that Ordinance ſhould die without it, becauſe it is not the Childrens fault, thro the extraordinary Grace of God they may be ſav'd, when the Parents, who ſaw the danger of their Souls, and would have no pity, through the juſt Judgment of God may be damn'd;</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But to avoid this dreadful Conſequence of the damnation of themſelves or Children,<note n="*" place="margin">Mr. <hi>Black<g ref="char:EOLhyphen"/>wood</hi> ſtorming of Anti<g ref="char:EOLhyphen"/>chriſt, p. 11. and 53.</note> they ſay Infants are ſav'd by the preſentment of the Satisfaction of Chriſt to God's Juſtice for Ori<g ref="char:EOLhyphen"/>ginal Sin, and that without believing, this Satisfaction is apply'd to dying Infants, whether they be born of Turks or Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But this Anſwer does not ſeem ſufficient upon a double account. 1. Becauſe many of their Infants live to commit actual Sin, and then die unbaptized, and the bare pardon of their Original Sin is not enough to ſave ſuch; their Actual Sins muſt be forgiven too, or elſe they will be damn'd. 2. Becauſe the preſentment of Chriſt's Satifaction to God's Juſtice for Ori<g ref="char:EOLhyphen"/>ginal Sin amounts to no more than a Pardon of it, which may be granted Children without admitting them to the Joys of Heaven, which cannot be obtain'd without Chriſts imputed, or their own inherent Righteouſneſs; as a Rebel may be pardon'd his Treaſon, and ſo not ſuffer the Sentence of Death, which is an Act of Grace in the Prince; but yet to prefer this pardon'd Rebel to a place at Court, it muſt proceed from ſome extraor<g ref="char:EOLhyphen"/>dinary merit, or a farther Act of Grace to do this; and there<g ref="char:EOLhyphen"/>fore the <hi>Pelagians,</hi> who were a Sect that denied Original Sin, ne<g ref="char:EOLhyphen"/>vertheleſs were for Baptizing their Children, that they might be born again, and ſo enter into the Kingdom of God. 3. But if this is ſufficient to obtain Heaven for Infants, the preſentment of the Satisfaction of Chriſt to Gods Juſtice for Original Sin, Why is not the ſame ſufficient to qualifie them to be Baptized? In ſhort, let theſe Men aſſign what reaſon they will for Infants Salvation (and ſome they muſt, or declare their opinion to be
+<pb n="15" facs="tcp:30606:8"/>
+unreaſonable) and I will undertake to prove the ſame will con<g ref="char:EOLhyphen"/>clude more forceably for Infants Baptiſm. Indeed we both agree that Infants may be ſav'd; they ſay, without Baptiſm by Chriſt's Satisfaction; we ſay, certainly with Baptiſm, which is the ap<g ref="char:EOLhyphen"/>plication of that Satisfaction; their Opinion is uncertain and hazardous, ours ſure and certain by God's Word, <hi>John</hi> 3.5. and <hi>Tit.</hi> 3.5. and therefore to Baptize our Children is the ſafeſt and ſureſt way; and not to Baptize them, is to expoſe them to infinite and apparent danger, which no Parents that love their Children and their own Souls will venture to do.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I am glad you have cleared this Point ſo well, I hope it will make all Parents conſider the dreadful hazard they run in neglecting their Childrens Baptiſm; but there is one Scripture proof more which you promiſed, wanting.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>It is in <hi>Acts</hi> 2.39. where St. <hi>Peter</hi> declares that the Pro<g ref="char:EOLhyphen"/>miſe, <hi>i. e.</hi> of Remiſſion of Sins and Gift of the Holy Ghoſt belongs to the Believing <hi>Gentiles</hi> and their Children, as well as to the <hi>Jews</hi> and theirs; and that they both and their Children ſtood up<g ref="char:EOLhyphen"/>on equal Terms in reſpect of the Covenant of Grace.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But may not this Promiſe be underſtood with reference to that Curſe the <hi>Jews</hi> imprecated on their Childrens head when they Crucified Chriſt, <hi>His Blood be on us and our Chil<g ref="char:EOLhyphen"/>dren, Mat.</hi> 27.25. that they and their Children ſhould be freed from that Curſe, in caſe they did live to repent, and be Bap<g ref="char:EOLhyphen"/>tiſed?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>No, The Text cannot be ſo Interpreted; becauſe if the Curſe was imprecated, and fell on their Children according to the <hi>Jews</hi> imprecation; why ſhould not this Promiſe, if it were a freedom from that Curſe, exempt their Children from it, al<g ref="char:EOLhyphen"/>tho they might not live actually to repent of it? And ſince a great many of them in all probability did not live ſo long, 'twas but poor comfort to tell the <hi>Jews</hi> their Children ſhould be par<g ref="char:EOLhyphen"/>doned and ſaved on condition they repented, which was impoſ<g ref="char:EOLhyphen"/>ſible for them to perform; and for this Reaſon, and becauſe it was made to the <hi>Gentiles</hi> too, who are not charg'd by St. <hi>Peter</hi> to be guilty of Chriſt's Blood as the <hi>Jews</hi> were, <hi>Acts</hi> 2.23. this Promiſe, <hi>ver.</hi> 39. cannot be particular to the <hi>Jews</hi> for their Sin
+<pb n="16" facs="tcp:30606:9"/>
+of Blood-guiltineſs, but muſt be general and extend to all theirs and the <hi>Gentiles</hi> Actual Sins, and the Original Sin of both their Children; and if this Promiſe belong to both their Children, there is no other ordinary means for them to receive the benefit of it but by Baptiſm.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But does not the Clauſe in the concluſion limit the Pro<g ref="char:EOLhyphen"/>miſe to grown Believers? <hi>[even as many as the Lord our God ſhall call]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>No, That is only another Phraſe to expreſs the <hi>Gentiles</hi> by, and a further Explication of the former <hi>[All that are afar off]</hi> and the purport of both is, that the Promiſe is the ſame to the converted <hi>Gentiles</hi> as to the converted <hi>Jews,</hi> and ſince the Children of the <hi>Jews</hi> are expreſſed to have a Right in this Promiſe, the Children of the <hi>Gentiles</hi> muſt be imply'd to have the ſame Right in it.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Have they not ſome other Anſwers to theſe Five Texts of Scripture?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Yes, But they are evaſive ones, and I have conſidered them, and reply'd to them in a ſet Diſcourſe, of which this is but an Abridgment.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I ſhould be glad to ſee this; but in the mean time muſt obſerve, that they will tell you all your five Scripture Proofs come ſhort of Proving your Point, becauſe none of them ex<g ref="char:EOLhyphen"/>preſly require us to Baptize our Children.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I thought they would allow of a good conſequence from theſe or any other Texts of Scripture for Infant Baptiſm; if they do not, what have they to ſay for admitting Women to the Lords Supper, there being no expreſs Command for it?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Here I confeſs they are hard put to it, and after all their turnings and windings are not able to produce one ſuch Precept, or ſo much as one Example for this practice; but are forced to fly to deductions and conſequencs to prove it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>This ſhews theſe Men to be partial; they can eaſily eſpy the lawfulneſs of Womens receiving the Lords Supper in Scrip<g ref="char:EOLhyphen"/>ture; but they cannot, or rather will not ſee the lawfulneſs of Childrens Receiving Baptiſm; which is as viſible there as the other.</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:30606:9"/>
+               <speaker>P.</speaker>
+               <p>But they produce three or four paſſages out of the <hi>Acts of the Apoſtles,</hi> and St. <hi>Paul's Epistles</hi> to prove that Women be<g ref="char:EOLhyphen"/>lieved and were Baptized, and that they that were Baptized Aſ<g ref="char:EOLhyphen"/>ſembled together and brake bread.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But how do they prove that this breaking of Bread muſt be the Lords Supper, and not the Firſt Chriſtians ordina<g ref="char:EOLhyphen"/>ry Meals, ſince in the ſame Chapter 'tis call'd a breaking of Bread from Houſe to Houſe? How do they likewiſe prove that thoſe that were Baptiz'd and brake Bread, muſt needs be all the Believ<g ref="char:EOLhyphen"/>ers that were then in the World; and if all were not preſent (as it is highly improbable ſo many Thouſands ſhou'd receive the Lord's Supper together in one Houſe) why might not thoſe that were abſent be the Women? <hi>Alas! they cannot infer a right to the Or<g ref="char:EOLhyphen"/>dinance from what grounds they pleaſe; they muſt produce ſome plain Command or Example for Womens Communicating, or they ſay nothing:</hi> This is certain, my former Texts of Scripture as plainly prove In<g ref="char:EOLhyphen"/>fant Baptiſm, as any Text they can bring, does that Women ought to receive the Lord's Supper; and I wiſh they would let the Controverſie reſt here, and I will undertake to prove as clearly the one, as they are able to do the other.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But are you againſt Womens receiving the Lord's Supper?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>No, God forbid, you know I have formerly Preach'd the contrary, and preſſed and perſuaded Women as well as Men to partake of that great Ordinance; and I am ſtill, and hope ſhall ever be of the ſame Mind: But I urge this to prove that we have not better Grounds from Scripture to admit Women to the Lord's Table, than we have to admit Believers Children to Baptiſm.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I apprehend you, Sir, that there is good Grounds from Scripture for both; but if there is no expreſs Command or Exam<g ref="char:EOLhyphen"/>ple for the Baptiſm of Infants, it muſt be unlawful, for that no<g ref="char:EOLhyphen"/>thing ought to be done in the Worſhip of God, but what has one or the other to Warrant it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But how do they prove this?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>They produce <hi>Jer.</hi> 7.31. <hi>And they have built the high Places of Tophet, which is in the Valley of the Son of Hinnom, to burn their Sons and their Daughters in the fire, which I Commanded them not; neither came it into my Heart.</hi> And ſeveral other places.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:30606:10"/>
+               <speaker>M.</speaker>
+               <p>But this and the like Scriptures mention ſuch things only as God had expreſly forbidden; and the Phraſe <hi>[I commanded them not]</hi> imports as much; and 'tis all one, as if the Prophet had ſaid [I for<g ref="char:EOLhyphen"/>bade them] to do this. But what is the Idolatry here ſpoken of, <hi>viz.</hi> the <hi>Jews</hi> Sacrificing their Sons and their Daughters to De<g ref="char:EOLhyphen"/>vils. What is this to Infant Baptiſm? which is an Offering our Sons and our Daughters to Chriſt: Is the one as Unlawful and great a Wickedneſs as the other? Let them prove this, and the Controverſie is at an end; but let them <hi>not think to fetch their Arguments from the Old-Teſtament, to overthrow a New-Teſtament Ordinance;</hi> if they <hi>do,</hi> to ſpeak in their own Language, is not <hi>this a meer a trifling Vanity, and nought but a piece of foolery and de<g ref="char:EOLhyphen"/>ceit to darken Counſel with words without knowledge?</hi> Job 38.2. I think this to be a more true and ſafe Rule than theirs; that as nothing is our Duty but what God has expreſly, or by good con<g ref="char:EOLhyphen"/>ſequence Commanded; ſo nothing is a Sin, but what God has expreſly or by good conſequence forbidden, according to that plain paſſage in <hi>Joh.</hi> 3.4. <hi>Sin is the tranſgreſſion of the Law,</hi> and St. <hi>Paul</hi>'s inference from it, <hi>Where there is no Law, there is no tranſ<g ref="char:EOLhyphen"/>greſſion,</hi> Rom. 4.15. Beſides, if that Text of <hi>Jeremy,</hi> or any other of the like nature ſhou'd condemn our Practice in Baptizing Infants, they do as much condemn their Practice in admitting Women to the Lord's Supper, which is alike deſtitute of any expreſs Scrip<g ref="char:EOLhyphen"/>ture Command or Example to warrant it, and then according to their own way of arguing, it muſt be ſinful.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But if you cou'd produce ſome Command or Example for Baptizing Children, you wou'd ſoon convince theſe Men, and they would readily do it,</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I much doubt this, whether they would Baptize their Children, if there were never ſo plain a Command or Example, in Scripture for it.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This looks a little Uncharitable; but what reaſon have you to think this of them?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Becauſe altho we tell them the Chapter and Verſe where ſinging Pſalms is required, and where there are Examples of Chriſt and his Apoſtles, who not only Injoin'd it others, but al<g ref="char:EOLhyphen"/>ſo practiſed it themſelves, yet the far greater number of them in
+<pb n="19" facs="tcp:30606:10"/>
+this Kingdom never ſing Pſalms or Hymns at all; and 'tis no Un<g ref="char:EOLhyphen"/>charitableneſs to think, that thoſe who make bold in diſobeying one Scripture Command, back'd with Examples too, wou'd not make bold in diſobeying another.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But I am told, they refuſe to ſing Pſalms, becauſe they have a mix'd Congregation with which they cannot join in ſinging?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>So if there were an expreſs Command for Baptizing Chil<g ref="char:EOLhyphen"/>dren, they might find the like excuſe, for not Baptizing theirs; becauſe it muſt be done in a mix'd Congregation; they do not like the Miniſter, or People, or Form of Baptiſm, and therefore will keep their Children from it; but theſe are ridiculous Excuſes; and why then do they Pray in a mix'd Congregation?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I cannot imagine what they will ſay to this, or what rea<g ref="char:EOLhyphen"/>ſon they can give, that they ſeldom uſe the Lord's Prayer, in a<g ref="char:EOLhyphen"/>ny of their Meetings?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I gueſs at the reaſon of both, but I will not be poſitive therein, becauſe I will not be Uncharitable (as they are) it may be, 'tis becauſe they hate all Forms of Words in the Worſhip of God, and therefore will not ſing Pſalms, nor uſe the Lord's Pray<g ref="char:EOLhyphen"/>er, leſt they ſhou'd ſymbolize with us, and ſtand ſelf Con<g ref="char:EOLhyphen"/>demn'd for going ſo far, and not going farther in joining with us in that Excellent Form of Prayer our Church preſcribes.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Truly this may be the reaſon they do not ſing Pſalms, nor uſe the Lord's Prayer; and I ſhall think it is, till they ſhew a better. But they Object many places of Scripture againſt Infant-baptiſm, even all thoſe that require the Miniſters to <hi>Teach and Baptize,</hi> Mat. 28.19. and the People to <hi>Believe, and be Baptiz'd,</hi> Mar. 16.16. and <hi>To repent, and be Baptiz'd,</hi> Acts 2.38. And with theſe, they ſtagger Ignorant and Unſtable Souls, and ſome<g ref="char:EOLhyphen"/>times gain them to their Party.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>What you ſay, is very true; but there is no reaſon any one ſhou'd be ſtagger'd with theſe Texts; for they all have re<g ref="char:EOLhyphen"/>ſpect to grown Perſons, that were then Believers, or ſhou'd be<g ref="char:EOLhyphen"/>come; and do not at all concern their Children.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But how do you prove that Children are not excluded from Baptiſm by theſe Texts?</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:30606:11"/>
+               <speaker>M.</speaker>
+               <p>From one of them, that of <hi>Mar.</hi> 16.16. <hi>He that Believeth and is Baptiz'd, ſhall be ſav'd; but he that believeth not, ſhall be damned.</hi> Where (he that Believeth not, ſhall be Damned) is ac<g ref="char:EOLhyphen"/>knowledg'd by our Oppoſers in this Point, to be reſtrain'd to grown Perſons only, and that Children are not intended by it; whom they will neither allow to have Faith, nor yet to be Damn'd for want of it: And therefore (<hi>he that Believeth, and is Baptiz'd,</hi> in the former part of the Verſe) muſt be ſo reſtrain'd too, and underſtood of grown Perſons, and not of Children; and ſo Children are no more to be kept from Baptiſm, than from Heaven, for want of Faith. And therefore when they object ſuch Scriptures as theſe to you, anſwer them, with ſome other, as, <hi>Heb.</hi> 5.9. <hi>Chriſt became the Author of Salvation, to all them that obey him.</hi> Luke 13.5. <hi>Except ye repent, ye ſhall all likewiſe periſh.</hi> And the place juſt before quoted, <hi>He that believeth not, ſhall be damn'd;</hi> and <hi>Heb.</hi> 11.6. <hi>Without Faith, it is impoſſible to pleaſe God;</hi> and <hi>Rev.</hi> 21.8. <hi>But the fearful and unbelieving, and the abominable, and murderers, and whoremongers, &amp;c. ſhall have their part in the Lake that burneth with fire and brimſtone, which is the ſecond death:</hi> And tell them 'tis as plain, from theſe Texts, that Children can<g ref="char:EOLhyphen"/>not be Sav'd without Faith, as from the other Scripturs, that they ought not to be Baptiz'd without it. And tell them too, tho' Baptiſm be but one, there is a twofold way of applying it. 1. Through Confeſſion of Faith, to ſuch grown Perſons, as are capable of making it; and ſo the objected Scriptures mean it. 2. Without the Confeſſion of Faith, in them who are not able to make it, is Baptiſm apply'd to Believers Children; and 'tis abſurd in any one to urge that againſt Children, to ſhut them out from Baptiſm, which only concerns Men.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This kind of Reaſoning, I believe will be too hard for them; but it would leave them without excuſe, if you cou'd pro<g ref="char:EOLhyphen"/>duce a plainer Text or two for Infant-baptiſm.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I think, they are left without Excuſe in what has been already urg'd, and if I cou'd yet produce plainer Texts, they wou'd do but little good upon them.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>You know not but through the bleſſing of God they may, and therefore if you have any more, pray let me hear them.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:30606:11"/>
+               <speaker>M.</speaker>
+               <p>Why then, urge thoſe two places wherein Believers Chil<g ref="char:EOLhyphen"/>dren are called <hi>Diſciples</hi> and <hi>Believers,</hi> as <hi>Acts</hi> 15.10. <hi>Now there<g ref="char:EOLhyphen"/>fore why tempt ye God, to put a yoke upon the neck of the Diſciples, which neither our fathers, nor we were able to bear?</hi> Which was the Yoke of Circumciſion, and that was chiefly born by Chil<g ref="char:EOLhyphen"/>dren, who were to undergo it at eight Days Old, and <hi>Mat.</hi> 18.6. <hi>But whoſo ſhall offend one of thoſe little ones that believe in me, it were better that a Milſtone were hanged about his neck, and he drowned in the depth of the Sea.</hi> Where by little ones, Chriſt means little Children, as is plain, from the four preceeding Verſes; in every one of which he expreſſes little Children, or the little Child he had ſet in the midſt of his Diſciples.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But what ſay you to their evaſions to theſe Texts? To <hi>Acts</hi> 15.10.<note n="*" place="margin">Mr. <hi>K.</hi> Gold re<g ref="char:EOLhyphen"/>fin'd, p. 89.</note> they ſay, the putting the Yoke of Circumciſion, is not actual Circumciſion in the Fleſh; for that the <hi>Jews</hi> as well as their Children, were able to bear for many Ages; but the Yoke of Circumciſion, is the neceſſity of it upon Mens Conſciences in order to Salvation.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>But this is a meer ſhift, and Confuted by one of their own Party,<note n="*" place="margin">Mr. <hi>Black<g ref="char:EOLhyphen"/>wood's</hi> ſtorming of Anti<g ref="char:EOLhyphen"/>chriſt, pag. 37.</note> who ſays, St. <hi>Peter here ſpeaks of Circumciſion, not as the falſe Teachers wou'd then have brought it in (which certainly was to impoſe it on the Conſciences of Chriſtians, as if they cou'd not be Sav'd without it) but as it was conſider'd ſimply in it ſelf, as that he calls it a Yoke upon their Fathers not to be born; who liv'd before thoſe falſe Teachers were.</hi> And 'tis a weak Reaſon of the former's Opinion, to ſay, that the <hi>Jews</hi> and their Children bore Circumciſion for many Ages; and the Apoſtle ſays, this is a Yoke which neither cou'd bear; for who can be ignorant, that by this Phraſe, is meant only the difficulty wherewith the <hi>Jews</hi> bore Circumciſion, that they cou'd hardly endure it, it being frequently ſaid in Scripture, that a Man cannot do that, which is hard for him to do, as <hi>Mark</hi> 1.45. <hi>Luke</hi> 11.7. and ſo the meaning can be no other, than that nei<g ref="char:EOLhyphen"/>ther the <hi>Jews</hi> nor their Children were well able to bear the Yoke of Circumciſion.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This is clear: But what ſay you to the anſwer they com<g ref="char:EOLhyphen"/>monly give to <hi>Mat.</hi> 18.6. That by <hi>little ones</hi> Chriſt means ſuch as are little in Faith, and their own Judgment.</p>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:30606:12"/>
+               <speaker>M.</speaker>
+               <p>They may ſay what they pleaſe, but they can never prove this to be Chriſt's meaning; and I dare ingage, that if any un<g ref="char:EOLhyphen"/>prejudic'd Perſon, reads from the firſt Verſe of this Chapter to this ſixth, and conſiders that all along, in every Verſe, Chriſt has a particular regard to little Children; and to the little Child that was before him, he can never imagine Chriſt wou'd break off ſo abruptly, as to mean by little ones, Men and Women that were little in Faith; but will rather conclude, that by little ones Chriſt meant ſuch little Children he had been ſpeaking of before in every part of this Diſcourſe; but the truth is, theſe two Texts eſpecially preſs ſo hard upon them, that I do not wonder to ſee them wrench and turn, and diſtinguiſh, to avoid the force of them, which with all their Art and Subtilty they are never able to do; for if Believers Children are Diſciples and Believers, (as Chriſt and the Holy Ghoſt aſſures us, who beſt knew their Hearts) then by their own confeſſion they may and ought to be Baptiz'd.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I am ſatisfied, and to Diſpute (as many of them do) that Chil<g ref="char:EOLhyphen"/>dren cannot be Diſciples nor Believers, againſt ſuch plain Texts of Scripture which affirm them to be both, is really to fight againſt God. But there is one Objection behind, with which they flou<g ref="char:EOLhyphen"/>riſh and ſometime gravel unlearn'd and wavering People, <hi>viz.</hi> That Chriſt was not Baptiz'd till he was a Man (as moſt conje<g ref="char:EOLhyphen"/>cture) about Thirty Years of Age, and how dare we Baptize Chil<g ref="char:EOLhyphen"/>dren when they are not Thirty, nor Three Days Old? We ſhou'd rather defer their Baptiſm after Chriſt's Example, till they are Men, and can give an account of their Faith.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>This Argument proves nothing, becauſe it proves too much; for then no one muſt be Baptiz'd till he is about the ſame Age of Thirty, as Chriſt was, nor in any River but <hi>Jordan.</hi> And no one muſt receive the Lord's Supper above once, and that at the point of Death, and then with Men only, becauſe therein he has Chriſt's Example for his Pattern; but if they themſelves do not follow Chriſt in all imitable things, why do they preſs us to follow him in this, of deferring Baptiſm till Manhood? The truth is, Scrip<g ref="char:EOLhyphen"/>ture Examples whether of Chriſt or his Apoſtles conclude no<g ref="char:EOLhyphen"/>thing, unleſs the very ſame reaſons and circumſtances concur to
+<pb n="23" facs="tcp:30606:12"/>
+inforce our imitation; and that they do not in the caſe before us; for Chriſt did not defer his Baptiſm till Manhood, becauſe he cou'd not ſooner give an account of his Faith, who at Twelve Years Old was able to baffle and confound all the Doctors in <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> Luk. 2.47. but he deferr'd it in all likelyhood, becauſe he did not ſooner enter upon his Miniſterial Office: And he then receiv'd it, not becauſe he needed it; but to fulfill all Righteouſ<g ref="char:EOLhyphen"/>neſs, and to Conſecrate this Chriſtian Ordinance, before he be<g ref="char:EOLhyphen"/>gan to Preach the Chriſtian Religion to the World; or elſe Chriſt receiv'd Baptiſm no ſooner, becauſe <hi>John</hi> Baptiſt who was to per<g ref="char:EOLhyphen"/>form that Office began no ſooner to Baptize; for 'tis as evident from Scripture, that <hi>John Baptiſt</hi> did not Baptize his Proſelytes till Chriſt was about Thirty Years of Age, as that Chriſt was ſo Old before he was Baptz'd, <hi>Luke</hi> 3.21, 22, 23. And if it is ſuggeſted, that notwithſtanding the Evangeliſt's relation of theſe things as if done near together, they might have happen'd at ſome diſtance of time from one another; then I ſay, for the ſame reaſon, Chriſt might have been Baptiz'd long before he was Thirty, even in In<g ref="char:EOLhyphen"/>fancy; at leaſt ſo ſoon as he cou'd ſpeak and go; and their urging of Chriſt's Example does rather conclude for, than againſt the Baptiſm of our Children.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>So it does; and now I ſhould have done, but that I muſt beg the Favour of you to reſolve me Three Queries more ful<g ref="char:EOLhyphen"/>ly, which in effect you have anſwered already; not as if I doubted my ſelf, but that I may be able to ſatisfie others; and I ſhall treſpaſs no longer upon your patience.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I ſhall chearfully comply with you, and am never tired to ſerve you or any Man elſe on ſo good account, and there<g ref="char:EOLhyphen"/>fore pray proceed to your Queries.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>The Firſt is, Whether you judge Baptiſm, which is Admini<g ref="char:EOLhyphen"/>ſtred to Believers Children in Infancy, to be Lawful and good Baptiſm?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Yes, Certainly it is, and you have no reaſon to doubt of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t; not only becauſe I prov'd before from Scripture that Bap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſm comes in the room of Circumciſion; that the <hi>Iſraelites</hi> paſ<g ref="char:EOLhyphen"/>ſage through the Red Sea was a Type thereof, that Children <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re Holy, and ſhall be happy; <hi>For of ſuch is the Kingdom of
+<pb n="24" facs="tcp:30606:13"/>
+Heaven,</hi> and that the Promiſe is to their Children as well as to the believing Parents; but alſo becauſe the Covenant God made with our Father <hi>Abraham</hi> is the very ſame in ſubſtance with that he has made with us Chriſtians, being a Covenant of Faith in Chriſt, and obtaining Salvation by it; and therefore Circumci<g ref="char:EOLhyphen"/>ſion was not only a Seal of <hi>Abraham</hi>'s Faith in particular, but alſo a Seal of the <hi>Jews</hi> Faith, which deſcended from him, and of the <hi>Gentile</hi> Proſelytes Faith, who imbrac'd the Jewiſh Religi<g ref="char:EOLhyphen"/>on, and were adopted into the Jewiſh Nation, as is clear from <hi>Gen.</hi> 17. from the 7th to the 15th Verſe; <hi>Rom.</hi> 4.11. and ſeve<g ref="char:EOLhyphen"/>ral other places of Scripture; and the Abrahamical Covenant being the ſame for ſubſtance with that which is made with Be<g ref="char:EOLhyphen"/>lievers now, even a Covenant of Faith; and the Seal thereof be<g ref="char:EOLhyphen"/>ing only chang'd, Circumciſion into Baptiſm; becauſe Almighty God admitted Children into Covenant then, and by no one Pre<g ref="char:EOLhyphen"/>cept or Example has ſince excluded them from it, Children are ſtill in Covenant with him; for being once in Covenant, the ſame Everlaſting Covenant, Children are ever in it, unleſs it can be ſhew'd when, or where they are ſhut out of it; and ſo our Children ought to be Baptiz'd, as the Jewiſh Children were of Old Circumcis'd; the Conſequence of which is, that the Bap<g ref="char:EOLhyphen"/>tiſm of the Chriſtian is as valid as the Circumciſion of the Jew<g ref="char:EOLhyphen"/>iſh Children.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This is cloſe reaſoning: But theſe<note n="*" place="margin">Mr. <hi>Black<g ref="char:EOLhyphen"/>wood</hi> ſtorming of Anti<g ref="char:EOLhyphen"/>chriſt, p. 32.</note> Men object here, that Circumciſion was no Seal of Faith to the <hi>Jews,</hi> becauſe it was Adminiſtred to the Reprobates as well as to the Elect; <hi>Eſau</hi> and <hi>Iſhmael</hi> were Circumcis'd (whom they look on to be finally rejected) as well as <hi>Iſaac</hi> and <hi>Jacob,</hi> who were effectually call<g ref="char:EOLhyphen"/>ed.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>To this I anſwer, 1. I might as well argue that Baptiſm is no Seal of Grace, becauſe it was adminiſtred to <hi>Simon Magus,</hi> whoſe final condition the Scripture ſets forth to be as dangerous at leaſt as <hi>Iſhmael</hi>'s or <hi>Eſau</hi>'s; St. <hi>Peter</hi> ſays of him, that he was in the gall of bitterneſs and bond of iniquity, and leaves it mighty doubtful whether he was ever forgiven or no, <hi>Acts</hi> 8.22,<note place="margin">Ibid. page 58, 59.</note> 23. and yet the objector himſelf allows Baptiſm to be a Sign or Seal of Grace already wrought, and of Grace farther to be
+<pb n="25" facs="tcp:30606:13"/>
+wrought; and ſo he confutes himſelf with his own Anſwer, and in effect owns, that Circumciſion as well as Baptiſm might be a Seal of Grace, notwithſtanding its being Adminiſtred to ſuch bad Men as <hi>Eſau, Iſhmael,</hi> and <hi>Simon Magus.</hi> 2. How does it appear that <hi>Eſau</hi> and <hi>Iſhmael</hi> never had Faith? they might have it, and fall from it; unleſs they can prove this to be impoſ<g ref="char:EOLhyphen"/>ſible. 3. How does it appear that <hi>Eſau</hi> and <hi>Iſhmael</hi> were Repro<g ref="char:EOLhyphen"/>bates and finally rejected? As to the latter, tho' he had not the Birth-right and Prieſthood which belong'd to it; yet <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> Pray'd for him, no doubt for his Eternal as well as Temporal Welfare, <hi>Gen.</hi> 17.18. <hi>O that Iſhmael might live before thee.</hi> And God anſwered his Prayers, <hi>ver.</hi> 20. <hi>As for Iſhmael I have heard thee.</hi> And as to the former, tho <hi>Eſau</hi> be call'd Profane, yet that was for undervaluing his Birth-right to which the Prieſthood was annex'd, as is evident from <hi>Heb.</hi> 12.16. If it be ſaid, <hi>he found no place of Repentance,</hi> that was of his Father <hi>Iſaac</hi>'s Repen<g ref="char:EOLhyphen"/>tance, in changing his mind, and recalling the Bleſſing he had firſt given <hi>Jacob; Eſau</hi> found no place of ſuch Repentance in his Father, tho' he might of his own Repentance; for he might Re<g ref="char:EOLhyphen"/>pent, and there is nothing in this place to prove the contrary, it having reſpect only to his Father <hi>Iſaac</hi>'s Bleſſing, as the former part of the Verſe does plainly ſhew <hi>(For ye know that afterwards when he wou'd have inherited the bleſſing, he was rejected)</hi> But by whom was this? by his Father <hi>Iſaac, Gen.</hi> 27.33. <hi>I have bleſſed him,</hi> i. e. <hi>Jacob, yea, and he ſhall be bleſſed:</hi> Upon which <hi>Eſau cryed with an exceeding great and bitter cry,</hi> Ver. 34. but to no purpoſe, he cou'd not alter his Father's mind, <hi>and ſo he found no place for</hi> [Iſaac's] <hi>repentance, tho' he ſought it carefully with tears:</hi> And for that other place of St. <hi>Paul,</hi> Rom. 9.13. <hi>Jacob have I loved, but Eſau have I hated:</hi> It may be underſtood, 1. Comparatively, that God lov'd the one leſs than the other; a leſſer degree of Love being in Scripture call'd Hatred, as <hi>Luke</hi> 14.26. <hi>If any man come unto me, and hate not his father and mother, and wife and Children, and brethrn and ſiſters, yea, and his own life, he cannot be my Diſci<g ref="char:EOLhyphen"/>ple;</hi> all which Relations, eſpecially a Man's own dear ſelf, 'tis not only Natural, but God has Commanded us to Love; and yet if we do not Hate all theſe we cannot be Chriſt's Diſciples;
+<pb n="26" facs="tcp:30606:14"/>
+the meaning of which ſeemingly harſh paſſage is only this; that we muſt Love our neareſt Kindred and Selves leſs than Chriſt, or elſe he will not own us for his Diſciples at the laſt Day; and in this ſenſe God might Love <hi>Eſau</hi> too, tho' he lov'd <hi>Jacob</hi> more. Or 2. God's Hatred to <hi>Eſau</hi> may be underſtood in re<g ref="char:EOLhyphen"/>ſpect of Temporal Bleſſings; that <hi>Jacob</hi> injoy'd a greater ſhare of them than <hi>Eſau</hi> did, and ſo the Prophet <hi>Malachy,</hi> whence St. <hi>Paul</hi> had it, expounds this place, <hi>Mal.</hi> 1.1, 2. <hi>Was not Eſau Jacob's brother? ſaith the Lord: yet I loved Jacob, and I hated Eſau;</hi> and wherein that Hatred conſiſted, it immediately follows, <hi>I laid his mountains and heritage waſte for the dragons of the wilderneſs;</hi> i. e. <hi>Eſau</hi>'s Poſſeſſions were more Barren and Unfruitful than <hi>Jacob</hi>'s, which was a Temporal Curſe laid upon him for deſpiſing his Birth-right and the Prieſthood, that went along with it; ſo that <hi>Eſau</hi> and <hi>Iſhmael</hi> might be Gracious and Elect Children for any thing that can be prov'd from Scripture to the contrary, and then Circum<g ref="char:EOLhyphen"/>ciſion might be a Seal of Grace and Faith to them as well as to o<g ref="char:EOLhyphen"/>ther Believing <hi>Jews.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I am glad you have Explain'd theſe Scriptures to me, which my ſelf as well as many others have always apply'd to Election and Reprobation; tho' I now find we had no reaſon for doing it. But have you any other Reaſon for proving Baptiſm adminiſtred to Believers Children in Infancy, to be Lawful and ſufficient?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Yes, ſeveral, but I ſhall name but one more, that I may not be too tedious to you.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I ſhall never think ſo, and therefore pray let me hear your other Reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>It is becauſe the Parents or Friends Faith has procur'd the Children ſome Spiritual as well as Temporal Benefits from Chriſt; and therefore why may it not procure for them the be<g ref="char:EOLhyphen"/>nefit of Chriſtian Baptiſm? And if it be regularly obtain'd it muſt be valid.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But how do you prove that the Parents Faith has procured Temporal and Spiritual Advantages for Children?</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>The Temporal are to be ſeen in thoſe Miraculous Cures Chriſt wrought on their Bodies, particularly, <hi>Luk.</hi> 8.50. <hi>Be<g ref="char:EOLhyphen"/>lieve only,</hi> thou that art her Father, <hi>and ſhe,</hi> that is, thy Daughter,
+<pb n="27" facs="tcp:30606:14"/>
+                  <hi>ſhall be made whole.</hi> The Spiritual Cures may be found, if you conſult thoſe places where Chriſt caſt out Devils of Children; particularly, <hi>Mat.</hi> 15.27, 28. where he deliver'd the Woman of <hi>Canaan</hi>'s Daughter from the Power and Poſſeſſion of Satan, for the ſake of her Mother's Faith; and that was a Spiritual Bleſſing indeed. And the like Cures did Chriſt work for the ſake of the Friends as well as Parents Faith; particularly, the Centurion's Faith was the Motive that induc'd Chriſt to recover his Servant that lay Sick of the Palſie, grievouſly tormented; <hi>Go thy way</hi> (ſays Chriſt to the Centurion) <hi>as thou haſt believed, ſo be it done unto thee: and his ſervant was healed in the ſelf ſame hour,</hi> Mat. 8.6, 13. Which by the way is a good Argument, why the Faith of others, even God-fathers and God-mothers as well as the Pa<g ref="char:EOLhyphen"/>rents, may be available for obtaining this Spiritual Priviledge of bringing Children to Baptiſm, if they had no Faith of their own; eſpecially when God's Promiſe imbraces them as well as grown Believers. I do not mention this as a thing of abſolute neceſſity, but only as highly reaſonable that our Church ſhou'd require Sureties to make an open Profeſſion of the Chriſtian Faith, and to promiſe to ſee the Baptiz'd Child Educated in it, for fear the Pa<g ref="char:EOLhyphen"/>rents through negligence or Death, ſhou'd fail to perform their Duty to him; as no Man wou'd Lend a conſiderable Sum of Mo<g ref="char:EOLhyphen"/>ney, but he would have one or more Sureties to be Bound with the Principal, for the ſurer Payment of the Debt. And truly what is the Conſequence of deſpiſing the Faith of God-fathers and God-mothers? Why Men come next to deſpiſe the Parents Faith, and will not Baptize the Child till he has actual Faith of his own, and does publickly Profeſs it; and from that, they come to deſpiſe the very Ordinance of Baptiſm, and to ſay, if we have Faith, there is no need of being Baptiz'd; and ſo from Con<g ref="char:EOLhyphen"/>temning the Orders of our Church, they proceed at laſt ſo far as to juſtle the Ordinance it ſelf out of Door.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I ſee there is no ſtop when Men forſake our Church; and therefore I ſhall ſtick cloſe to it; only I wiſh, that what our God-fathers and God-mothers thus Charitably undertake, they wou'd be careful according to their Power Conſcientiouſly to per<g ref="char:EOLhyphen"/>form. But I haſten to my ſecond Query, Whether Baptiſm
+<pb n="28" facs="tcp:30606:15"/>
+Adminiſtred by Sprinkling or Pouring Water on the Face, be a good Baptiſm?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Yes, certainly it is; and that for theſe Four Reaſons. 1. Not only becauſe the Word [Baptize] is uſed in Scripture for Sprinkling and Waſhing ſome part of the Body, as well as for Dip<g ref="char:EOLhyphen"/>ping the whole in Water; as I have already prov'd. But 2. Be<g ref="char:EOLhyphen"/>cauſe the Vertue of the Ordinance of Baptiſm does not depend upon the quantity of Water any more than that of the Lords Supper depends upon the quantity of Bread and Wine receiv'd in it; a little of each Element makes either Ordinance as valid as a great deal. 3. Becauſe if Baptiſm by Sprinkling, or which the Oppoſers of it count all one, by Dipping in Infancy be no Baptiſm, then are not any of them Baptiz'd; ſince they receiv'd their Bap<g ref="char:EOLhyphen"/>tiſm at firſt from ſome one of us that was either Sprinkled or Dipp'd in Infancy; and therefore they ſhou'd take heed how they make void our Baptiſm, leſt thereby they deſtroy their own, and prove themſelves to be no Chriſtians, as they uncharitably eſteem us. 4. Becauſe they themſelves do not put the whole Body of the Baptiz'd Perſon under Water, but he himſelf puts the one half at leaſt under Water by wading into it, and the Dipper puts the other; and if their Baptiſm be Adminiſtred by caſting the upper part of the Body under the Water, Why may not we Ad<g ref="char:EOLhyphen"/>miniſter Baptiſm by Pouring Water on the Face or Sprinkling it? And why may not our Baptiſm thus Adminiſtred be as good as theirs?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I ſee no Reaſon but it is, and much better. But I proceed to my Third and laſt Query; Whether Believers Children that are Baptiz'd in Infancy, ought to be Baptiz'd again? becauſe we have ſome among us that are fallen into Scruples about it.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Let the Doubters be never ſo many, this muſt not be done, by no means; <hi>For as there is but one Lord, and one Faith, ſo there is but one Baptiſm,</hi> Eph. 4.5. And having receiv'd that one Baptiſm, 'tis dangerous for you to mock God in the repeating of it; this is in effect to Condemn the Generation of God's Children, to declare your ſelves to have been hitherto meer Heathens, and to deny that Faith into which ye have been Baptiz'd. Nevertheleſs the Foundation of God ſtandeth ſure, having this Seal, which ought
+<pb n="29" facs="tcp:30606:15"/>
+not to be ſet twice to the ſame Covenant; but yet this Baptiſm when they come of Age to give an Account of their Faith, they may and ought to Ratify by Epiſcopal Confirmation; and ſo by taking their Baptiſmal Vow upon themſelves, your Children at laſt ſhou'd make it their own Act and Deed: And this is no Su<g ref="char:EOLhyphen"/>perſtitious Ceremony, but grounded on the Apoſtles Practice, and plain Teſtimony of Scripture, as <hi>Acts</hi> 8.14, 15, 16, 17. where we find, that after the whole Country of <hi>Samaria</hi> was Conver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by the Preaching of <hi>Philip,</hi> and had received Baptiſm at his Hands, the Apoſtles ſent St. <hi>Peter</hi> and <hi>John</hi> thither to Confirm them, which they needed not to have done, if <hi>Philip</hi> (who was one of the Seven Deacons mention'd <hi>Acts</hi> 6.5.) cou'd have Confirm'd as well as he had Baptiz'd them; but that being a Work peculiar to the Apoſtles and their Succeſſors the Biſhops of the Church, two of that Sacred Order were Delegated on pur<g ref="char:EOLhyphen"/>poſe for the doing of it; and a Work 'tis, that is needful to be done, not only to ratifie our Baptiſm, and make it our own voluntary Fact, but alſo to receive a greater degree of the ordi<g ref="char:EOLhyphen"/>nary and Saving Graces of the Holy Ghoſt, now that the extraor<g ref="char:EOLhyphen"/>dinary and Miraculous Gifts are long ſince ceaſed; for which rea<g ref="char:EOLhyphen"/>ſon the Author to the <hi>Hebrews</hi> reckons Confirmation among the Principles of the Doctrin of Chriſt, and places it next to Baptiſm, as a thing which in the courſe of the Goſpel Diſpenſation ought next to follow it, <hi>Heb.</hi> 6.2. where in the Foundation of the Chriſtian Religion the Apoſtle ſets Baptiſm, and after that laying on of Hands, which is Confirmation; and<note n="*" place="margin">
+                     <hi>Calvins</hi> Inſtit. lib. 4. cap. 19. Sect. 4. &amp; 13. <hi>de Confir.</hi>
+                  </note> Mr. <hi>Calvin</hi> him<g ref="char:EOLhyphen"/>ſelf was ſo far from Condemning the right uſe of this Ceremony as Superſtitious, that he wiſhes it were Reſtored and Practiſed in all Churches, as it was in the Primitive Times (and then I am ſure the Practiſe of it cannot be condemned in our Church) And he proves at large the Reaſonableneſs and Benefits thereof by way of Preparation for the Lord's Supper; and to Mr. <hi>Calvin</hi>'s wiſh I ſhall add mine, That Confirmation were as duly and conſcien<g ref="char:EOLhyphen"/>tiouſly perform'd by all Biſhops in ours, as it was by the Apoſtles in their Days; and that we Miniſters wou'd every one of us pre<g ref="char:EOLhyphen"/>pare the Youth of our reſpective Pariſhes by Catechiſtical In<g ref="char:EOLhyphen"/>ſtruction; and that all our People wou'd take care to preſent them to the Biſhop, for this Apoſtolical Benediction.</p>
+            </sp>
+            <sp>
+               <pb n="30" facs="tcp:30606:16"/>
+               <speaker>P.</speaker>
+               <p>I am glad to find this prov'd by Scripture, and ſhall not ſlight Epiſcopal Confirmation any more, but if I had never ſo many Children, wou'd bring them all (aſſoon as they are capa<g ref="char:EOLhyphen"/>ble) to be Confirm'd by the Biſhop, to receive the benefit of his Bleſſing and Prayers.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I wiſh all other Parents were of your mind, and from Confirmation would bring their Sons and Daughters to the Lord's Supper, and by their good Example and Perſwaſions pre<g ref="char:EOLhyphen"/>vail with them to continue the conſtant and devout uſe of that Holy Sacrament, as often as they have an opportunity of receiv<g ref="char:EOLhyphen"/>ing it, and then I dare ſay, there wou'd not be ſo much Divi<g ref="char:EOLhyphen"/>ſion and Wickedneſs as there is in the World.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I cannot tell what others will do, but <hi>Joſhua</hi>'s Reſolution ſhall be mine, <hi>As for me and my houſe, we will ſerve the Lord,</hi> Joſ. 24.15.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>'Tis bravely reſolv'd, and I pray God to give you the Grace to keep your good Reſolution, that it may not vaniſh as the Morning Dew, or as the Cloud that paſſeth away.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Amen;</hi> But theſe People have more Objections to make, and more Anſwers to return to ours which I cannot think of, and Ignorant Perſons are ſometimes ſurpriz'd and confounded with them, and therefore I long to ſee that larger Treatiſe you mention'd.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>If you never ſee it, as you may not (this being a dull Age for Printing) there are many Excellent Diſcourſes on this Subject already Publiſhed, and that will not be found wanting, eſpecially ſince you have an Abridgment of it in this Confer<g ref="char:EOLhyphen"/>ence; which perhaps will ſpoil the Sail of the other.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I hope not, and wou'd have you encourag'd, becauſe your Reaſoning is plain, and your Arguments ſo worded, that the meaneſt Capacity may underſtand them.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>I confeſs next to God's Glory that is my great deſign, the Edification of all People; and thoſe Authors that do not aim at this, loſe their labour in Writing, as the Common Peo<g ref="char:EOLhyphen"/>ple do their time in Reading their Books. But enough of this, leſt I ſhou'd be juſtly thought too conceited and cenſorious.</p>
+            </sp>
+            <sp>
+               <pb n="31" facs="tcp:30606:16"/>
+               <speaker>P.</speaker>
+               <p>I believe you ſpeak the Truth after your wanted manner, let who will be offended with it; and therefore pray give me a little Advice at parting how I ſhall behave my ſelf in reference to thoſe Men we h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve been all along diſcourſing of.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Why, take heed that you do not hear them, that you be not preſent at any of their Dippings; they will very few of them, and they very ſeldom come to our Sermons, but none of them to our Church's Prayers or Baptiſm, and think it un<g ref="char:EOLhyphen"/>lawful to be preſent at the two laſt; I am ſure 'tis more unlaw<g ref="char:EOLhyphen"/>ful for us to frequent any of their Aſſemblies, and very fit we ſhould hearken to St. <hi>Paul</hi>'s Counſel, and receive it into our Hearts as well as Ears, <hi>Rom.</hi> 16.17. <hi>Now I beſeech you, Brethren, mark them which cauſe diviſions and offences, contrary to ſound do<g ref="char:EOLhyphen"/>ctrin, which ye have learned;</hi> (and I may add wherein too you have been Baptiz'd) <hi>and avoid them.</hi> And I might uſe many Arguments to this purpoſe, yet ſhall content my ſelf with one, that they eſteem the Church of <hi>England</hi> no true Chriſtian Church, nor any other Church to be ſo, that has been or now is in the World, excepting only their own; and if you had no other reaſon, methinks you ſhould not venture into their Aſ<g ref="char:EOLhyphen"/>ſemblies, nor be of their Perſwaſion, nor think them the only Church and People of God, becauſe of this their prodigious un<g ref="char:EOLhyphen"/>charitableneſs to all other Chriſtians.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>This is Reaſon enough not to be of their Religion who want Charity, which is ſuch an eſſential part of it; and there<g ref="char:EOLhyphen"/>fore as I never was at any of their Meetings, ſo I hope I never ſhall, believing my ſelf ſafe in the Communion of this Orthor<g ref="char:EOLhyphen"/>dox Church of <hi>England,</hi> as to the eternal Welfare of my Soul.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>And ſo no doubt but you are; and finding you ſo well ſatisfied, I preſume you have no more Queries to propoſe, no further Scruples that may trouble you, and ſhall therefore take my leave of you at this time with thoſe two excellent Petiti<g ref="char:EOLhyphen"/>ons of our Litany; <hi>From all blindneſs of heart, from pride vain<g ref="char:EOLhyphen"/>glory and hypocriſie, from envy hatred and malice, and all unchari<g ref="char:EOLhyphen"/>tableneſs; M.</hi> and <hi>P. Good Lord deliver us; From all ſedition, privy conſpiracy and rebellion, from all falſe doctrine hereſie and
+<pb n="32" facs="tcp:30606:17"/>
+ſchiſm, from hardneſs of heart and con<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mpt of thy word and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mandment; M.</hi> and <hi>P. Good Lord deliver us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>And I pray Sir let me conclude with my Prayer <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that God wou'd reſtore you and all ſuch to your places, that you may do more good in your Generation.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>
+                  <hi>Amen;</hi> I daily Pray for it; and if our Prayers are not heard, God's will be done, and grant us all an happy meeting in Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>P.</hi> and <hi>M.</hi>
+               </speaker>
+               <p>
+                  <hi>Amen, Amen.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30606:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
